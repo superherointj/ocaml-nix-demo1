@@ -1,0 +1,7 @@
+_build
+_release
+*.cmo
+*.cma
+*.cmx
+.merlin
+node_modules
