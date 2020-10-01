@@ -1,5 +1,4 @@
-# ocaml-nix-demo1
-OCaml in NixOS Demo
+OCaml in NixOS Demo1
 
 ### Currently broken. It errors as:
 
