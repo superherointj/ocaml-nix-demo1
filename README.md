@@ -3,9 +3,11 @@ OCaml in NixOS Demo
 
 --
 # Currently broken. It errors as:
-  $ nix-shell
-  $ dune build
-  File "dune", line 4, characters 15-23:
+
+$ nix-shell
+
+$ dune build
+File "dune", line 4, characters 15-23:
   4 |     (libraries cmdliner)
                      ^^^^^^^^
   Error: Library "cmdliner" not found.
